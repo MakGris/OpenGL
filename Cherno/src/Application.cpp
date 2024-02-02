@@ -160,7 +160,7 @@ int main()
     //Серия 5, создаем атрибуты и активируем их, для того, чтобы видеокарта понимала, как рисовать вершины и что они содержат
     GLCall(glEnableVertexAttribArray(0));
     GLCall(glVertexAttribPointer(0, 2, GL_FLOAT, GL_FALSE, sizeof(float) * 2, 0));
-    
+    //11312312
     // создание  index buffer, нужен для того, чтобы не хранить в памяти повторяющиеся вершины треугольника для отрисовки квадрата
     unsigned int ibo;
     GLCall(glGenBuffers(1, &ibo));
