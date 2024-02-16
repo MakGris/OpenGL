@@ -1,5 +1,6 @@
 C:\Dev\Cherno\Cherno\src\Application.cpp;C:\Dev\Cherno\bin\intermediates\Win32\Debug\Application.obj
 C:\Dev\Cherno\Cherno\src\IndexBuffer.cpp;C:\Dev\Cherno\bin\intermediates\Win32\Debug\IndexBuffer.obj
 C:\Dev\Cherno\Cherno\src\Renderer.cpp;C:\Dev\Cherno\bin\intermediates\Win32\Debug\Renderer.obj
+C:\Dev\Cherno\Cherno\src\Shader.cpp;C:\Dev\Cherno\bin\intermediates\Win32\Debug\Shader.obj
 C:\Dev\Cherno\Cherno\src\VertexArray.cpp;C:\Dev\Cherno\bin\intermediates\Win32\Debug\VertexArray.obj
 C:\Dev\Cherno\Cherno\src\VertexBuffer.cpp;C:\Dev\Cherno\bin\intermediates\Win32\Debug\VertexBuffer.obj
