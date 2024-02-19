@@ -1,4 +1,5 @@
-﻿  Application.cpp
+﻿  Renderer.cpp
   Shader.cpp
+  VertexBuffer.cpp
   Generating Code...
   Cherno.vcxproj -> C:\Dev\Cherno\bin\Win32\Debug\Cherno.exe
